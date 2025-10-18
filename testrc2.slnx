@@ -7,5 +7,5 @@
   <Project Path="testrc2-sql/testrc2-sql.sqlproj">
     <Platform Project="AnyCPU" />
   </Project>
-  <Project Path="testrc2/testrc2.AppHost.csproj" />
+  <Project Path="testrc2.AppHost/testrc2.AppHost.csproj" />
 </Solution>
