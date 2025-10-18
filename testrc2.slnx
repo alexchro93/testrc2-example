@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="testrc2-sql/testrc2-sql.sqlproj">
+    <Platform Project="AnyCPU" />
+  </Project>
+  <Project Path="testrc2/testrc2.AppHost.csproj" />
+</Solution>
